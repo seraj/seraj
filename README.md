@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=seraj.me&style=for-the-badge&url=https://seraj.me)](https://seraj.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/seraj?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/seraj&screen_name=seraj)
 
-## I'm a Developer, Gamer and Designer!!
+## I'm a Front End Engineer.
 
 I'm a passionate software developer with experience across the stack and always keen to try all the shiny new little things the web has to offer. Service workers, composite workers, and everything that works mostly behind a flag. I loves 60fps web interfaces, frontend automation, and offline-first web apps. My expertise includes Javascript, HTML, and CSS. I'm excited to leverage the latest technologies to build powerful and performant applications. The most recent applications I've worked on utilize frameworks such as React with Redux, and Meteor with React to create modular and performant single-page applications.
 
