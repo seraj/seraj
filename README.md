@@ -11,6 +11,8 @@ I'm a passionate software developer with experience across the stack and always 
 
 - Experienced: C++, SQL, AngularJS, Backbone.js, Docker
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=seraj&label=Profile%20views&color=0e75b6&style=flat" alt="Seraj Vahdati" /> </p>
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
