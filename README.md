@@ -3,13 +3,52 @@
 [![Website](https://img.shields.io/website?label=seraj.me&style=for-the-badge&url=https://seraj.me)](https://seraj.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/seraj?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/seraj&screen_name=seraj)
 
-## I'm a Front End Engineer.
+---
+name: Seraj Vahdati
+about: Passionate Frontend Engineer | Full Stack Enthusiast
+---
 
-I'm a passionate software developer with experience across the stack and always keen to try all the shiny new little things the web has to offer. Service workers, composite workers, and everything that works mostly behind a flag. I loves 60fps web interfaces, frontend automation, and offline-first web apps. My expertise includes Javascript, HTML, and CSS. I'm excited to leverage the latest technologies to build powerful and performant applications. The most recent applications I've worked on utilize frameworks such as React with Redux, and Meteor with React to create modular and performant single-page applications.
+## 👋 Hello, World!
 
-- Technical Skills Strong: JavaScript, TypeScript, React, Vue, Redux, Meteor, Express, HTML/CSS, Git, Linux.
+I'm a dedicated software developer who loves exploring the vast landscape of web technologies. My journey involves diving deep into the stack and experimenting with the latest tools and frameworks. Whether it's the magic of service workers, the elegance of composite workers, or any other hidden gems behind experimental flags, count me in!
 
-- Experienced: C++, SQL, AngularJS, Backbone.js, Docker
+## 🌐 Web Enthusiast
+
+I have a particular fondness for crafting 60fps web interfaces, automating frontend workflows, and building offline-first web applications. I believe in the power of leveraging cutting-edge technologies to create robust and high-performance applications.
+
+## 🛠️ Tech Toolbox
+
+### Strong:
+
+- JavaScript
+- TypeScript
+- React
+- Next.js
+- Redux
+- Zustand
+- Tailwind
+- Meteor
+- HTML/CSS
+- Git
+- Linux
+
+### Experienced:
+
+- Vue
+- C++
+- SQL
+- AngularJS
+- Backbone.js
+- Docker
+- Node.js
+- Express
+
+## 💡 Always Learning
+
+I'm not just about what I know, but also about what I'm eager to discover. I thrive on the excitement of trying out new technologies and methodologies, pushing the boundaries of what's possible in the web development realm.
+
+Let's connect, collaborate, and code together! 🤝
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seraj&label=Profile%20views&color=0e75b6&style=flat" alt="Seraj Vahdati" /> </p>
 
