@@ -1,12 +1,7 @@
-### Hi there, I'm Seraj Vahdati - [Front End Engineer][website] 👋
+### Hi there, I'm Seraj Vahdati - [Passionate Frontend Engineer | Full Stack Enthusiast][website] 👋
 
 [![Website](https://img.shields.io/website?label=seraj.me&style=for-the-badge&url=https://seraj.me)](https://seraj.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/seraj?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/seraj&screen_name=seraj)
-
----
-name: Seraj Vahdati
-about: Passionate Frontend Engineer | Full Stack Enthusiast
----
 
 ## 👋 Hello, World!
 
