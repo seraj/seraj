@@ -5,11 +5,7 @@
 
 ## 👋 Hello, World!
 
-I'm a dedicated software developer who loves exploring the vast landscape of web technologies. My journey involves diving deep into the stack and experimenting with the latest tools and frameworks. Whether it's the magic of service workers, the elegance of composite workers, or any other hidden gems behind experimental flags, count me in!
-
-## 🌐 Web Enthusiast
-
-I have a particular fondness for crafting 60fps web interfaces, automating frontend workflows, and building offline-first web applications. I believe in the power of leveraging cutting-edge technologies to create robust and high-performance applications.
+I'm a passionate Senior Front End Engineer with extensive experience in building high-performance web applications. I specialize in React, Next.js, and TypeScript, and I love working with the latest web technologies. My journey includes enhancing user experiences and optimizing applications for companies like Setflow, Goki, and Omid Analyzer. With a strong foundation in JavaScript, HTML, and CSS, I've led teams, conducted numerous code reviews, and implemented innovative solutions that drive performance and usability. Always eager to learn and grow, I'm excited to continue pushing the boundaries of web development.
 
 ## 🛠️ Tech Toolbox
 
@@ -22,20 +18,23 @@ I have a particular fondness for crafting 60fps web interfaces, automating front
 - Redux
 - Zustand
 - Tailwind
+- GraphQL
 - Meteor
 - HTML/CSS
+- Webpack
 - Git
 - Linux
 
 ### Experienced:
 
-- Vue
-- C++
-- SQL
 - AngularJS
+- Vue
 - Backbone.js
 - Docker
 - Node.js
+- Python
+- Django
+- SQL
 - Express
 
 ## 💡 Always Learning
@@ -53,7 +52,6 @@ Let's connect, collaborate, and code together! 🤝
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
