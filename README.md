@@ -80,8 +80,11 @@ Let's connect, collaborate, and code together! 🤝
 
 <!-- BLOG-POST-LIST:START -->
 
-- [useArray Hook - modifying lists](https://seraj.me/blog/useArray-hook)
-- [useCookie Hook - a simple way to work with cookies](https://seraj.me/blog/useCookie-hook)
+- [Understanding defer and async in HTML: A Guide to Script Loading](https://seraj.me/blog/script-defer-async)
+- [Key Differences Between useMemo and useCallback](https://seraj.me/blog/useCallback-useMemo)
+- [Block Scopes in Javascript](https://seraj.me/blog/Block-scope-in-javascript)
+- [Mastering Array Manipulation in React with useArray Hook](https://seraj.me/blog/useArray-hook)
+- [How to Create a Type-Safe, Flexible useCookie Hook in TypeScript](https://seraj.me/blog/useCookie-hook)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
